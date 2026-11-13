@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Dataset files
+accesco_trial_data.csv
+cleaned_inventory_data.csv
+
+# Generated model
+best_model.joblib
